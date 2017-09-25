@@ -1,0 +1,9 @@
+{
+    "files": [],
+    "groups": {"ExternalObjectService" : ["C:\\Users\\jalal.khan\\my\\workspace\\CPay\\src\\classes\\PaymentCenterExternalObjectService.cls",
+        "C:\\Users\\jalal.khan\\my\\workspace\\CPay\\src\\classes\\PaymentCenterExternalObjectServiceMock.cls",
+        "C:\\Users\\jalal.khan\\my\\workspace\\CPay\\src\\classes\\PaymentCenterExternalObjectStdTest.cls",
+        "C:\\Users\\jalal.khan\\my\\workspace\\CPay\\src\\classes\\PaymentCenterExternalObjectServiceStd.cls",
+        "C:\\Users\\jalal.khan\\my\\workspace\\CPay\\src\\classes\\PaymentCenterExternalObjectConstants.cls"]},
+    "version": 1
+}

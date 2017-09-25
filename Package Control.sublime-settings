@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Chain of Command",
+		"Column Select",
+		"DocBlockr",
+		"FavoriteFiles",
+		"Material Monokai",
+		"Material Theme",
+		"MavensMate",
+		"Outline",
+		"Package Control",
+		"PackageResourceViewer",
+		"Salesforce Reference",
+		"VisualforcePreview"
+	]
+}
